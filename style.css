@@ -58,7 +58,7 @@ label.logo {
 }
 
 section {
-    background: url("/images/burger-with-egg-it-side-ketchup.jpg") no-repeat;
+    background: url("./images/burger-with-egg-it-side-ketchup.jpg") no-repeat;
     background-size: cover;
     height: 100vh;
 }
